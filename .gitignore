@@ -3,3 +3,4 @@ data/berlin/week.gtfs.zip
 data/berlin/week.sqlite
 data/berlin/sections.geojson
 data/berlin/routes.geojson
+extracted_files/*/week.gtfs/*
