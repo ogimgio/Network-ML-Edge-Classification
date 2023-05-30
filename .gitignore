@@ -1,0 +1,5 @@
+data/berlin/week.gtfs/*
+data/berlin/week.gtfs.zip
+data/berlin/week.sqlite
+data/berlin/sections.geojson
+data/berlin/routes.geojson
